@@ -13,8 +13,8 @@
 Τα αρχεία H5P μπορείτε να τα ανοίξετε απευθείας στον περιηγητή σας πατώντας στους παρακάτω συνδέσμους:
 
 - [Αναγνώριση Δωρικού Ρυθμού σε 3D Απεικόνιση.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1396886)
-- [Διαδραστική Ανάλυση Αρχαίου Ελληνικού Κειμένου.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1396882)
-- [Διαδραστικός Πίνακας Κλίσης Αρθρών.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1396879)
+- [Διαδραστική Ανάλυση Αρχαίου Ελληνικού Κειμένου.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1396879)
+- [Διαδραστικός Πίνακας Κλίσης Αρθρών.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1396882)
 - [Διαδραστικός Χάρτης της Αρχαίας Ελλάδας.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1396885)
 - [Εξάσκηση με Flashcards Λεξιλόγιο και Ορισμοί.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1396888)
 
